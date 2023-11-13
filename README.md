@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessio Liu</h1>
 <h3 align="center">High Schooler from Italy.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asurakuo&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a" alt="a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asurakuo" alt="a" /></a> </p>
 
 - 🔭 I’m currently working on **Disect - MYP5 PP · AI-based Blockchain Analytics Software**
 
