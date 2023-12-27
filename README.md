@@ -1,25 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessio Liu</h1>
 <h3 align="center">High Schooler from Italy.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asurakuo&label=Profile%20views&color=0e75b6&style=flat" alt="asurakuo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asurakuo" alt="asurakuo" /></a> </p>
-
-- 🔭 I’m currently working on **Disect - MYP5 PP · AI-based Blockchain Analytics Software**
-
-- 🌱 I’m currently learning **Vuejs**
-
-- 🤝 I’m looking for help with **Blockchain Analytics and Smart Contracts**
-
-- 💬 Ask me about **bootstrap, tailwind, react**
-
-- 📫 How to reach me **liuyijiealessio435@gmail.com**
-
-- ⚡ Fun fact **I don't respond to my mails.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/asurakuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asurakuo" height="30" width="40" /></a>
 <a href="https://twitter.com/alessioliu47385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alessioliu47385" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yjiealessio-liu-20a792262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yjiealessio-liu-20a792262/" height="30" width="40" /></a>
 </p>
